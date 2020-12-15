@@ -1,1 +1,1 @@
-Side project for a contracter site
+Side project for a contracter site, painting is the example practice
